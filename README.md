@@ -1,22 +1,18 @@
-## Project Name:  Expense Calculator Application
+# Project Name: Expense Calculator Application
 
-### Course Title:
-LIS 2360:  Web Application Development
+##Course Title:
+LIS 2360 Web Application Development 
 
-### Assignment Date:  
-(Month Day, Year)
+##Assignment Date
+February 10, 2017
 
-### Student Name:  
-(First and Last Name)
+##Student Name:
+Jake Tutan
 
-### Project Description:
-(In your own words, briefly describe the assignment.)
+##Project Description:
+This project uses HTML and javascript in order to create an application which has the user input their monthly expenses in several categotries and calculates which percentage of their total expenses each category amounts to. 
 
-### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
-
-### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+##Lessons learned in this assignment
+1. I learned the building blocks of javascript including the document.getElementbyId and parseFloat commands.
+2. I learned proper javascript format such as how to define variables.
+3. I learned javascript best practices such as when to use local and global variables. 
